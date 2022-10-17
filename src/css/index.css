@@ -1,0 +1,27 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#inputDiv {
+    display: flex;
+    height: 2em;
+    margin-left: 2em;
+}
+
+#inputFunc {
+    font-family: 'Courier New', Courier, monospace;
+    width: 15em;
+    border-radius: 0.9em;
+    border-width: 2px;
+    border-color: rgb(153, 153, 153);
+    margin-right: 0.5em;
+    padding-left: 1em;
+}
+
+#demoButton {
+    font-family: 'Courier New', Courier, monospace;
+    height: auto;
+    background-color: #fff;
+    border-radius: 0.9em;
+    border-width: 2px;
+}
